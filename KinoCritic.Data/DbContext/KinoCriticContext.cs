@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using KinoCritic.Data;
-using KinoCritic.Models;
+using KinoCritic.Data.Entities;
 
 namespace KinoCritic.Data
 {
@@ -12,4 +12,4 @@ namespace KinoCritic.Data
         public DbSet<Show> Shows { get; set; }
         public DbSet<Rating> Ratings { get; set; }
     }
-}
+};
