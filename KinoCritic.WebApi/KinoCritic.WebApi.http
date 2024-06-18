@@ -1,0 +1,6 @@
+@KinoCritic.WebApi_HostAddress = http://localhost:5037
+
+GET {{KinoCritic.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

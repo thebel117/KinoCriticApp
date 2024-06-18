@@ -1,0 +1,7 @@
+-- Combined repository and service logic (same as in GoSocial App) to simplify the architecture. Service talk directly to dbcontext. Do the CRUD ops and applying business logic.
+
+-- Needs migrations
+
+-- Still missing some packages
+
+--
