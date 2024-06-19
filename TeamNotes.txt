@@ -2,6 +2,6 @@
 
 -- Needs migrations
 
--- 
+-- Entities for users or admins
 
---
+-- Need database
