@@ -9,8 +9,8 @@ namespace KinoCritic.Data.Entities
 
         [Required]
         [MaxLength(255)]
-        public string Title { get; set; }
+        public string? Title { get; set; }
 
-        public string Description { get; set; }
+        public string? Description { get; set; }
     }
 }
